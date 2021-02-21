@@ -29,7 +29,6 @@ imiemalelitery = imie.lower()
 imie = "Anastazja"
 imieduze = imie.upper
 
-
 print(imiePoZmianie)
 print(imiemalelitery)
 print(imieduze)
